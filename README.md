@@ -1,2 +1,2 @@
 # prac-java
-Just practice
+Just practicing JAVA and DSA
