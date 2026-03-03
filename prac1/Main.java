@@ -1,5 +1,3 @@
-package prac1;
-
 public class Main {
         public static void main(String[] args) {
         // tricky like i=(1)i++(1->2) + (2+1)++i(3) = 1 + 3 = 4
