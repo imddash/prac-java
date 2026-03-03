@@ -17,7 +17,6 @@ public class solution {
         }
         throw new IllegalArgumentException("No match");
     }
-
     // LeetCode-style test runner
     public static void main(String[] args) {
         solution sol = new solution();
