@@ -1,5 +1,3 @@
-package palindrome;
-
 public class solution {
 
     private static boolean checkPalindrome(String num) {
