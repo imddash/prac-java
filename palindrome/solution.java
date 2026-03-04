@@ -19,7 +19,7 @@ public class solution {
             return false;
         }
 
-        String num = x + ""; // ex
+        String num = x + ""; // convert to string
         return checkPalindrome(num);
     }
 
